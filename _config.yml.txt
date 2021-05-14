@@ -1,2 +1,0 @@
-title: 30 Random Countries & CO2 Emissions
-theme: jekyll-theme-slate
